@@ -11,3 +11,5 @@ spring:
         format_sql: 'true'
     hibernate:
       ddl-auto: update
+ambiente:
+  deploy: 'ambiente de desenvolvimento'
