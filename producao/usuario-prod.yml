@@ -13,3 +13,7 @@ spring:
       ddl-auto: update
 ambiente:
   deploy: 'ambiente de producao'
+    
+ jasypt:
+  encryptor:
+    password: senha123
