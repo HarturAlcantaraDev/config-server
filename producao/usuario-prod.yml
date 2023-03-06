@@ -13,7 +13,3 @@ spring:
       ddl-auto: update
 ambiente:
   deploy: 'ambiente de producao'
-    
-jasypt:
-  encryptor:
-    password: ESRCrOa6wh+A+NQ5d2f/Pj9YrZ7fFJdK
